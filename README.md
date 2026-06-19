@@ -98,5 +98,4 @@ java -jar target/sistema-ecommerce-1.0.0.jar
 
 ## Autor
 
-Desenvolvido para a disciplina de Programacao Orientada a Objetos
-Universidade do Mindelo - Cabo Verde
+Desenvolvido pela Aline Fortes. 
